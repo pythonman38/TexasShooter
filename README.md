@@ -1,0 +1,2 @@
+# Texas Shooter - Top Down Role Playing Game
+Cowboy Shooter role playing game featuring rifle wielding character with various abilities. Created with Unity 2022.3.1 and coded with Visual Studios 2022 in CSharp.
